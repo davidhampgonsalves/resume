@@ -1,0 +1,4 @@
+#avoid generated and instlled files#
+node_modules
+*.html
+*.pdf
