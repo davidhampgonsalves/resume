@@ -32,7 +32,7 @@
 	Introduced BDD style testing using Jasmine/Karma into existing application code.
 	Developed modern solutions and features for large Enterprise Java systems.
 	Collaborated with and guided global team members transitioning to client side architecture.
-	**Technical Environment** Backbone.js, Jasmine.js, SpringSource, Tomcat.
+	**Technical Environment** Backbone.js, Jasmine.js, Coffeescript, SpringSource, Tomcat.
 
 **Sumtotal Systems** *Senior Java Developer* __2008 to 2012__
 	Designed and implemented features and improvements for multiple enterprise sized applications.
