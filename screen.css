@@ -89,7 +89,7 @@
         letter-spacing: 2px;
         font-weight: normal;
     }
-    
+
     h3 {
         float: left;
         width: 16%;
@@ -99,17 +99,23 @@
         float: left;
         margin-left: 16%;
     }
-    
+
     h3+p {
         margin-left: inherit;
         float: left;
         width: 84%;
     }
-    
+
     ul li {
         width: 28%;
         float: left;
+        margin-bottom: 8px;
     }
+
+    ul li:nth-child(4n+4) {
+        margin-left: 16%;
+    }
+
     ul dl {
         dt {
             font-size: 122%;
@@ -137,7 +143,7 @@
     ol li:nth-child(1), ol li:nth-child(2), ol li:nth-child(3) {
         border-top: none;
     }
-    
+
     dl {
         margin: .5em 0 0;
         dt {
@@ -152,7 +158,7 @@
             font-size: 130%;
             font-style: normal;
         }
-        
+
     }
 
 
