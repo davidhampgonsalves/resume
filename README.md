@@ -3,7 +3,8 @@ This my resume in markdown format which lets me version, style and generate html
 ##setup
 * first: npm install (which installs [markdown-resume](https://github.com/there4/markdown-resume))
 * second: use the css files here to overwrite the core ones at node_modules/markdown-resume/assets/css
-__ to generate PDF's you'll also need to install: [wkhtmltopdf](https://github.com/pdfkit/pdfkit/wiki/Installing-WKHTMLTOPDF)__.
+
+__to generate PDF's you'll also need to install: [wkhtmltopdf](https://github.com/pdfkit/pdfkit/wiki/Installing-WKHTMLTOPDF)__.
 
 ##generate
 ```shell
