@@ -64,15 +64,15 @@
 ### Projects
 
 * **Ethical Barcode**
-	[ethicalbarcode.com](http://www.ethicalbarcode.com)
+	<a href=http://www.ethicalbarcode.com class=not-printed>ethicalbarcode.com</a>
 	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
 
 * **Halifax Crime Heatmap**
-	[crimeheatmap.ca](http://www.crimeheatmap.ca)
+	<a href=http://www.crimeheatmap.ca class=not-printed>crimeheatmap.ca</a>
 	HTML5 Animated heatmap visualising crimes in the city of Halifax. Built on a customised version Heatmap.js library which enables smooth animation. Won silver in the [Apps4Halifax](http://apps4halifax.ca/) city category.
 
 * **Foxish**
-	[chrome.google.com](https://chrome.google.com/webstore/detail/jpgagcapnkccceppgljfpoadahaopjdb)
+	<a href=https://chrome.google.com/webstore/detail/jpgagcapnkccceppgljfpoadahaopjdb class=not-printed>chrome.google.com</a>
 	Chrome extension that enables Firefox-style live RSS feeds with over fifteen thousand active users a 4/5 star rating. Featured on [Gizmodo](http://gizmodo.com/5609633/10-add+ons-you-have-to-know-about-for-google-chrome) & [LifeHacker](http://lifehacker.com/5603602/foxish-live-rss-adds-live-bookmarks-to-google-chrome).
 
 ------
