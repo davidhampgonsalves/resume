@@ -317,7 +317,8 @@ dl em {
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1000px), print {
+
   blockquote {
     top: 25px;
     right: 50px;
@@ -361,7 +362,7 @@ dl em {
   }
 }
 
-@media (max-width: 625px) {
+@media (max-width: 625px) not print  {
   ul li {
     width: 100%;
   }
@@ -378,9 +379,7 @@ dl em {
     float: right;
     position: static;
   }
-}
 
-@media (max-width: 625px) {
   p {
     margin-left: 5px;
     font-size: 12px;
@@ -399,6 +398,7 @@ dl em {
   }
 }
 
+// Print also shares the same styles as the under 1000px layout
 @media print {
   .container {border-top:none;}
 
@@ -410,7 +410,13 @@ dl em {
     text-decoration: none;
     color: #000;
   }
+
+  .page-break {
+    page-break-before:always;
+    padding-top:20px;
+  }
 }
+
 
 @page {
   size: auto;
