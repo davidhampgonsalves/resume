@@ -1,6 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Old+Standard+TT);
+
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
 /* clearfix */
+
 .container:before,
 .container:after {
   content: "";
@@ -20,6 +23,7 @@ body {
   font-family: 'Open Sans','Myriad Pro','Myriad',sans-serif;
   color: #1D1313;
   font-weight: 300;
+  margin:0;
 }
 
 h1, h2, h3, h4, ul dl dt {
@@ -146,9 +150,11 @@ ul dl {
   padding: 0;
   width: 100%;
 }
+
 ul dl dt {
   font-size: 100%;
 }
+
 ul dl dd {
   margin: 0 0 1em;
   padding: 0 2em 0 0;
@@ -162,6 +168,7 @@ ol {
   width: 84%;
   display: inline-block;
 }
+
 ol li {
   margin: 0 0 0 1em;
   padding: 0;
@@ -178,20 +185,24 @@ dl {
   margin: 0;
   padding: 0;
 }
+
 dl dt {
   margin: 0;
   padding: 0;
   font-size: 140%;
 }
+
 dl dd {
   margin: 0 0 1.5em;
   padding: 0;
   font-size: 80%;
   line-height: 1.4em;
 }
+
 dl strong {
   display: block;
 }
+
 dl em {
   display: block;
   font-size: 110%;
@@ -213,7 +224,6 @@ dl em {
   body {
     padding: 0;
   }
-
   .container {
     width: 100%;
   }
@@ -223,19 +233,16 @@ dl em {
   .container {
     width: 100%;
   }
-
   .resume {
     margin: 0 auto;
     padding: 40px 50px;
     width: 912px;
   }
-
   blockquote {
     top: 40px;
     right: 50px;
     position: absolute;
   }
-
   h1 {
     margin-top: 0;
     font-size: 44px;
@@ -243,74 +250,60 @@ dl em {
     letter-spacing: 3px;
     font-weight: normal;
   }
-
   h2 {
     text-transform: uppercase;
     font-style: italic;
     letter-spacing: 2px;
     font-weight: normal;
   }
-
   h3 {
     float: left;
     width: 16%;
   }
-
   h3 ~ p {
     float: left;
     margin-left: 16%;
   }
-
   h3 + p {
     margin-left: inherit;
     float: left;
     width: 84%;
   }
-
   ul li {
     width: 28%;
     float: left;
   }
-
   ul dl dt {
     font-size: 122%;
     font-weight: normal;
     margin-bottom: 0.75em;
   }
-
   ul dl dd {
     padding: 0 4em 0 0;
   }
-
   ol {
     float: left;
     margin: 0.6em 0 0;
   }
-
   ol li {
     width: 33%;
     margin: 0;
   }
-
   ol li:nth-child(3n) {
     width: 34%;
   }
-
   ol li:nth-child(1),
   ol li:nth-child(2),
   ol li:nth-child(3) {
     border-top: none;
   }
-
   dl {
     margin: 0.5em 0 0;
   }
-
   dl strong {
     float: right;
     margin-top: -2em;
   }
-
   dl em {
     font-size: 130%;
     font-style: normal;
@@ -318,79 +311,65 @@ dl em {
 }
 
 @media (max-width: 1000px), print {
-
   blockquote {
     top: 25px;
     right: 50px;
     position: absolute;
   }
-
   h1 {
     margin-top: 0.5em;
   }
-
   ol {
     margin: 0 0 0 2em;
     padding-bottom: 0;
-    width:100%;
+    width: 100%;
   }
-
   ol li {
     width: 33%;
     margin: 0;
   }
-
   ol li:nth-child(1),
   ol li:nth-child(2) {
     border-top: none;
   }
-
   ul li {
     width: 33%;
     float: left;
   }
-
   p {
     margin-left: 25px;
     font-size: 14px;
     line-height: 20px;
   }
-
   p strong, p em {
     font-size: 17px;
     line-height: 24px;
   }
 }
 
-@media (max-width: 625px) not print  {
+@media screen and (max-width: 625px) {
   ul li {
     width: 100%;
   }
-
   ul br:nth-of-type(1) {
     display: none;
   }
-
   ul a {
     line-height: 130%;
   }
-
   blockquote {
     float: right;
     position: static;
   }
-
   p {
     margin-left: 5px;
     font-size: 12px;
     line-height: 16px;
   }
-
   p strong, p em {
     font-size: 14px;
     line-height: 20px;
   }
-
   ol li {
     width: 50%;
     margin: 0;
@@ -398,25 +377,23 @@ dl em {
   }
 }
 
-// Print also shares the same styles as the under 1000px layout
+/* Print also shares the same styles as the under 1000px layout */
 @media print {
-  .container {border-top:none;}
-
+  .container {
+    border-top: none;
+  }
   .not-printed {
     display: none;
   }
-
   a {
     text-decoration: none;
     color: #000;
   }
-
   .page-break {
-    page-break-before:always;
-    padding-top:20px;
+    page-break-before: always;
+    padding-top: 20px;
   }
 }
-
 
 @page {
   size: auto;

@@ -2,7 +2,8 @@ This my resume in markdown format which lets me version, style and generate html
 
 ##setup
 * first: npm install (which installs [markdown-resume](https://github.com/there4/markdown-resume))
-* second: use the css files in the root directory to overwrite the core ones at node_modules/markdown-resume/assets/css
+* second: remove the existing core css files in `node_modules/markdown-resume/assets/css` and move `resume.css` into that dir.
+
 
 __to generate PDF's you'll also need to install: [wkhtmltopdf](https://github.com/pdfkit/pdfkit/wiki/Installing-WKHTMLTOPDF)__.
 
