@@ -1,6 +1,6 @@
-@import url(http://fonts.googleapis.com/css?family=Old+Standard+TT);
+@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 /* clearfix */
 
@@ -99,7 +99,7 @@ hr {
 h1 {
   margin: 0;
   padding: 0;
-  font-size: 36px;
+  font-size: 33px;
   letter-spacing: -1px;
   font-weight: normal;
 }
@@ -107,7 +107,7 @@ h1 {
 h2 {
   margin: 0;
   padding: 0;
-  font-size: 18px;
+  font-size: 20px;
   font-style: italic;
   letter-spacing: -1px;
   font-weight: normal;
@@ -245,7 +245,6 @@ dl em {
   }
   h1 {
     margin-top: 0;
-    font-size: 44px;
     text-transform: uppercase;
     letter-spacing: 3px;
     font-weight: normal;
