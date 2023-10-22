@@ -1,9 +1,0 @@
-{
-  "name": "resume",
-  "version": "1.0.0",
-  "description": "Markdown based resume",
-
-  "dependencies": {
-    "markdown-resume": "~0.1.0"
-  }
-}

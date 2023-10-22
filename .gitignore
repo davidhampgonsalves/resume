@@ -2,3 +2,4 @@
 node_modules
 *.html
 *.pdf
+.DS_Store
