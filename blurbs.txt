@@ -1,0 +1,104 @@
+I really like the ethos and mindset of self funded companies especially those that are 100% remote. 
+
+I also felt reading through the careers page that there was a focus on a sustainable work life balance and ...
+
+
+BIO
+
+Seasoned full stack engineer with a focus on building understandable and relatable codebases that solve interesting problems. 
+I have a proven track record of developing innovative software solutions for a variety of clients.
+
+
+
+
+
+
+
+
+
+I am a seasoned full stack engineer with a 15 year track record of delivering innovative software solutions across multiple technologies and programming languages.  
+Some of my achievements include refactoring a mission critical legacy application into the main code base, leading a cross functioal team in developing a Cypress based automated test suite and mentoring junior developers into the next stage of their careers.
+I am passonate about life long learning, challenging problems and weighing the merrits of out of the box solutions.
+
+
+
+
+
+
+
+As a Senior Software Engineer at Opencounter 
+
+
+As a Senior Software Engineer at GitHub, I work on the GitHub Actions Service team, where I build and scale the next platform for Actions, using Kubernetes and Go/Redis based micro-services. 
+
+I have over 15 years of experience in software development, spanning various technologies and programming languages.
+
+I have a proven track record of delivering high-quality products and features, both as an individual contributor and as a team leader. 
+
+Some of my achievements include cutting query time in half for a high traffic database, leading 12 releases of a flagship PHP/WordPress based database migration product, and speaking at a conference of 200 developers about Webpack and refactoring JavaScript. 
+
+I enjoy learning new things, solving complex problems, and mentoring junior developers. 
+
+
+
+  Architected a comprehensive solution for GIS ...
+  Senior Developer working on ...
+  Participated in 
+  Lead investigation and build out
+  Scaled MySQL queries on particularly high traffic database, cutting query time in half
+  Led team
+  Collaborate with cross-functional teams
+  Lead the development and implementation of Growth initiatives
+  Refactored critical
+
+  <li>Architected a comprehensive solution for Postgis/ReactMapGL based rules engine to visualize zoning legislations.</li>
+  <li>Led multi-team project to develop a Cypress based automated test suite.</li>
+  <li>Core member of team that migrated of our flagship system to React.js.</li>
+  <li>Led project to migrate 115k LOC legacy GIS system into our main code base integrating with existing translation and auth systems.</li>
+
+
+
+
+
+
+
+
+About (peter tasker)
+As a Senior Software Engineer at GitHub, I work on the GitHub Actions Service team, where I build and scale the next platform for Actions, using Kubernetes and Go/Redis based micro-services. 
+
+I have over 15 years of experience in software development, spanning various technologies and programming languages.
+
+I have a proven track record of delivering high-quality products and features, both as an individual contributor and as a team leader. 
+
+Some of my achievements include cutting query time in half for a high traffic database, leading 12 releases of a flagship PHP/WordPress based database migration product, and speaking at a conference of 200 developers about Webpack and refactoring JavaScript. 
+
+I enjoy learning new things, solving complex problems, and mentoring junior developers. 
+
+I am also a Triplebyte Certified Generalist Software Engineer, which demonstrates my broad and deep knowledge of software engineering principles and practices.
+
+
+
+
+
+
+
+
+Seasoned full stack engineer with a focus on building understandable and relatable codebases that solve interesting problems. I have a proven track record of developing innovative software solutions for a variety of clients.
+
+I am always building something and this has led me to reverse engineering a robotic kitty litter box, writing a browser extension that turned 13 this year, transforming a junk drawer Kindle into personal heads up display/calendar, implementing a sun powered Conways Game of Life display, building a pen plotter to bring my generative art to paper.
+
+When I'm not creating I can be found 🏕️ bike packing, skateboarding and 🌊 surfing in the winter waters of the Atlantic.
+
+
+
+
+What attracted you to apply to Bolt?
+
+
+
+
+
+Tell us a little bit about you and why you think you would be a good fit at Bolt.
+
+
+
